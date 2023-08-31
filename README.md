@@ -1,4 +1,4 @@
-# Django-WebRtc
+# VAchat
 Video and Audio Calling with WebRtc in Django
 
 ## Create Virtualenv with Python3
